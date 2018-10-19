@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package tugas.pkg2;
 
 import java.io.BufferedReader;
@@ -32,8 +27,8 @@ import javafx.scene.control.MenuBar;
 import javafx.scene.control.TextArea;
 
 /**
- *
- * @author Harry
+ * Harry Senjaya Darmawan
+ * 2017730067
  */
 public class FXMLDocumentController implements Initializable {
 
